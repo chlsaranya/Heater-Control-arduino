@@ -1,8 +1,5 @@
 # Heater Control System using Arduino Uno
 
-**Embedded Systems Intern Assignment – upliance.ai**  
-**Name:** [Your Full Name]  
-**Date:** [Submission Date]  
 
 ---
 
